@@ -28,4 +28,10 @@ header {
   nav ul li:hover {
     background: #eca023;
   }
- 
+  .gym10 ul li a {
+    text-align: right;
+  }
+.contenedor{
+  width: 100%;
+  height: 300px;
+}
