@@ -78,3 +78,12 @@ header{
 .navegacion .submenu .hijos li a{
 	display: block;
 }
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+.bienvenida{
+	margin-top: 10%;
+}
