@@ -112,3 +112,19 @@ ol li{
 	PADDING-TOP: 20px
 	
 }
+.img2{
+	width: 100%;
+	float: left;
+	margin-top: 5%;
+
+}
+.img2 img{
+	PADDING-RIGHT: 20px;
+	DISPLAY: inline;
+	PADDING-LEFT: 20px;
+	FLOAT: left;
+	PADDING-BOTTOM: 2px;
+	WIDTH: 50%;
+	PADDING-TOP: 20px
+
+}
