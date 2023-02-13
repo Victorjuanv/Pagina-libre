@@ -91,6 +91,9 @@ h2{
 	
 	text-align: center;
 	margin-top: 5%;
+	font-size: 25px;
+	padding-right: 30px;
+	padding-left: 30px;
 }
 ol {
 	padding-right: 0px;
@@ -126,5 +129,27 @@ ol li{
 	PADDING-BOTTOM: 2px;
 	WIDTH: 50%;
 	PADDING-TOP: 20px
+
+}
+.txt2{
+	font-size: 30px;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+.img3{
+	width: 100%;
+	float: left;
+	margin-top: 5%;
+}
+.img3 img{
+	PADDING-RIGHT: 20px;
+	DISPLAY: inline;
+	PADDING-LEFT: 20px;
+	FLOAT: left;
+	PADDING-BOTTOM: 2px;
+	WIDTH: 30%;
+	PADDING-TOP: 20px
+}
+.txt1{
 
 }
